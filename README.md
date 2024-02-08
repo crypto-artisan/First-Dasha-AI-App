@@ -1,3 +1,4 @@
+# Note: entry point: https://dasha.ai/en-us/blog/build-conversational-ai-app-1
 # How to start the demo app
 
 This is the demo app that was the result of the process described in the blog. I'm sharing this app, so that you can compare with what you built using the instructions.
